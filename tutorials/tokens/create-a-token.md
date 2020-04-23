@@ -263,6 +263,11 @@ At terminal, inside the folder token, run this command:
 ```shell
 truffle console --network testnet
 ```
+If you have installed the Truffle old version, then run this command:
+
+```shell
+truffle develop --network testnet
+```
 
 And you go to a new console:
 
